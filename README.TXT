@@ -38,4 +38,13 @@ rolling back.
 
 15. (34!=33)&&!false returns true because ! means does not so 34 doesnt not = 33 which is true.
 
-16.
+16.  a == b
+
+17. a != b
+
+18. The getDisplayValue method, particularly in the contect of the
+NumberDisplay class, does not work correctly in all circumstances.
+
+19. They both do the same thing.
+
+20. 9 + 3 "cat" results was 12cat and "cat" + 3 + 9 results are cat39
