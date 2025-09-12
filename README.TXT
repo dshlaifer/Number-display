@@ -25,3 +25,17 @@ minutes to 0
 
 9. As soon as it get to 10 the program will put 0 because when it gets to 10 the program will reset.
 
+11. When typing the following display.setValue(int 5); the error message is '.class' expected.
+The correct way to type this is disply.setValue(5); because you dont put int when passing a value to
+a method.
+
+12. This question allows setting a number with a specific range and ignores invalid values without
+rolling back.
+
+13. Now 0 is no longer allowed.
+
+14. negative numbers less than the limit or numbers over the limit would be accepted.
+
+15. (34!=33)&&!false returns true because ! means does not so 34 doesnt not = 33 which is true.
+
+16.
